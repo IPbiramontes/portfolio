@@ -25,7 +25,7 @@
  }   
 
  header {
-   background: gray;
+   background: #335176;
    color: white;
  }   
  header img {    
@@ -54,10 +54,10 @@
    margin: 0;    
    font-size: 3em;   
  }   
- section.about {   
-   background: gray;    
+  section.about {   
+   background:#335176;    
    color: white;   
- }   
+ }    
      
  section.about .btn-outline {    
      color: #fff;    
@@ -95,7 +95,7 @@
  }   
  footer .footer-below {    
    padding: 25px 0;    
-   background-color: black;    
+   background-color:#335176;    
  }   
      
  .btn-outline {    
